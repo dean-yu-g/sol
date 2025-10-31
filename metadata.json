@@ -2,7 +2,7 @@
     "name": "SOL-USDT",
     "symbol": "SOL-USDT",
     "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/dean-yu-g/sol/refs/heads/main/icon.jpg",
     "attributes": [
       {
         "trait_type": "Item",
