@@ -1,6 +1,6 @@
 {
-    "name": "usDc-sol",
-    "symbol": "usDc-sol",
+    "name": "USDT_S0L",
+    "symbol": "US",
     "description": "Only Possible On Solana",
     "image": "https://raw.githubusercontent.com/dean-yu-g/sol/refs/heads/main/token_icon.jpg",
     "attributes": [
