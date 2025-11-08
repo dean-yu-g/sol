@@ -1,6 +1,6 @@
 {
-    "name": "USDT_S0L",
-    "symbol": "US",
+    "name": "Token_S0L",
+    "symbol": "ToS",
     "description": "Only Possible On Solana",
     "image": "https://raw.githubusercontent.com/dean-yu-g/sol/refs/heads/main/token_icon.jpg",
     "attributes": [
