@@ -1,1 +1,12 @@
-
+{
+    "name": "usDc-sol",
+    "symbol": "usDc-sol",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/dean-yu-g/sol/refs/heads/main/token_icon.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
